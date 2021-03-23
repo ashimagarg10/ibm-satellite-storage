@@ -100,4 +100,3 @@ items:
         name: livenessprobe
         repository: k8s.gcr.io/sig-storage/livenessprobe
         tag: v2.1.0
-        
