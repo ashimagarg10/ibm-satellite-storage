@@ -53,7 +53,7 @@ items:
   - apiVersion: cleanup.ibm.com/v1
     kind: CleanUpOperator
     metadata:
-      name: cleanupoperator-localVolume
+      name: cleanupoperator-localvolume
       namespace: "system"
     spec:
       resourceName: "local-volume"
